@@ -1,0 +1,6 @@
+{
+    "version":  "1.0.0",
+    "url":  "https://github.com/Stevo238/vienna-brain-releases/releases/download/v1.0.0/ViennaBrain.exe",
+    "sha256":  "6a94ff293ea4ddb2f197ada24e9fcfcfc62caa08110bbd0dd0e4647a82d406ef",
+    "notes":  "First release: Claude\u0027s Vienna memory, house docs and the Outbox as a connector, so Claude in the app or on the web knows what Claude on Vienna knows."
+}
