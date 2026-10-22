@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/Stevo238/vienna-brain-releases/releases/download/v1.1.0/ViennaBrain.exe",
-    "sha256":  "f48f1c82dc8ba22049985b99a7d7aae0d56095f6557863e37cc8a44a7686f08a",
-    "notes":  "House ops: Claude can now check every Vienna app (up, version, logs), restart one that is stuck, run an app\u0027s tests, read Node-RED flows, see Blue Iris cameras, status and snapshots, and look at the UniFi network. Node-RED and UniFi are look-only."
+    "version":  "1.2.0",
+    "url":  "https://github.com/Stevo238/vienna-brain-releases/releases/download/v1.2.0/ViennaBrain.exe",
+    "sha256":  "025f74d37ddd9b1761f5b447b78209b4cfda4384ad392335e11e906d5fbf04ec",
+    "notes":  "Ammo Tracker and EVE Corp Finance: Claude can read your ammo, firearms, range trips and purchases, record rounds in or out and add to the ammo shopping list, and read the EVE corps\u0027 wallets, members, structures and fuel, skyhooks, intel board and mining."
 }
