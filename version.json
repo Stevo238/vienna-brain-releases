@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "url":  "https://github.com/Stevo238/vienna-brain-releases/releases/download/v1.0.0/ViennaBrain.exe",
-    "sha256":  "6a94ff293ea4ddb2f197ada24e9fcfcfc62caa08110bbd0dd0e4647a82d406ef",
-    "notes":  "First release: Claude\u0027s Vienna memory, house docs and the Outbox as a connector, so Claude in the app or on the web knows what Claude on Vienna knows."
+    "version":  "1.1.0",
+    "url":  "https://github.com/Stevo238/vienna-brain-releases/releases/download/v1.1.0/ViennaBrain.exe",
+    "sha256":  "f48f1c82dc8ba22049985b99a7d7aae0d56095f6557863e37cc8a44a7686f08a",
+    "notes":  "House ops: Claude can now check every Vienna app (up, version, logs), restart one that is stuck, run an app\u0027s tests, read Node-RED flows, see Blue Iris cameras, status and snapshots, and look at the UniFi network. Node-RED and UniFi are look-only."
 }
