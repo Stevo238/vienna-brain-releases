@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://github.com/Stevo238/vienna-brain-releases/releases/download/v1.2.0/ViennaBrain.exe",
-    "sha256":  "025f74d37ddd9b1761f5b447b78209b4cfda4384ad392335e11e906d5fbf04ec",
-    "notes":  "Ammo Tracker and EVE Corp Finance: Claude can read your ammo, firearms, range trips and purchases, record rounds in or out and add to the ammo shopping list, and read the EVE corps\u0027 wallets, members, structures and fuel, skyhooks, intel board and mining."
+    "version":  "1.3.0",
+    "url":  "https://github.com/Stevo238/vienna-brain-releases/releases/download/v1.3.0/ViennaBrain.exe",
+    "sha256":  "dd16540448c431544f2f9e5a25d3fec2c2f4e1ef1337b7cc4fae467f709c00e2",
+    "notes":  "Skills: Claude in the app can now read your own how-to guides from Vienna (beef invoicing, Home Assistant) and follow them, the same way Claude on Vienna does."
 }
